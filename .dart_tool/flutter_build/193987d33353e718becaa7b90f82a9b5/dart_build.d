@@ -1,0 +1,1 @@
+ C:\\Users\\andre\\OneDrive\\Documentos\\VSCODE\\Flutter\\brick_breaker\\.dart_tool\\flutter_build\\193987d33353e718becaa7b90f82a9b5\\dart_build_result.json: 
